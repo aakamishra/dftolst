@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/aakamishra.egg-info/PKG-INFO
+src/aakamishra.egg-info/SOURCES.txt
+src/aakamishra.egg-info/dependency_links.txt
+src/aakamishra.egg-info/top_level.txt
+src/dftoltx/__init__.py
+src/dftoltx/app.py
